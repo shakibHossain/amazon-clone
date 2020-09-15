@@ -12,7 +12,9 @@ Features -
 6. Users can view order history.
 
 Live url -
+
 https://clone-f13fd.web.app/
 
 Inspiration -
+
 Build Amazon Clone w/ Full E-Commerce + Stripe using React JS for Beginners By CleverProgrammer.
