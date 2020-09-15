@@ -76,35 +76,6 @@
   .payment__title {
     padding-right: 15px;
   }
-
-  .checkoutProduct {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    min-height: 400px;
-    width: 80%;
-    padding: 10px;
-    background: white;
-    margin: 10px;
-  }
-  .checkoutProduct__info {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: max-content;
-  }
-
-  .checkoutProduct > img {
-    max-height: 100px;
-    width: 50%;
-    object-fit: contain;
-    margin-bottom: 5px;
-  }
-
-  .checkoutProduct > p {
-    font-size: 14px;
-  }
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
