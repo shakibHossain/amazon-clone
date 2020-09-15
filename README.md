@@ -1,4 +1,4 @@
-### Amazon Clone
+# Amazon Clone
 
 This project was built with React JS, Node JS, Stripe JS and Firebase.
 
